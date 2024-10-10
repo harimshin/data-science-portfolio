@@ -11,7 +11,7 @@ Designed a comprehensive monitoring plan for a gradient boosting model, includin
 mance tracking, sensitivity analysis, and conceptual soundness checks. (Scikit-Learn, Scipy, Statsmodels)
 
 ## Education
-- Ph.D., Quantitative Marketing | Syracuse University (_2024(Expected)_)
+- Ph.D., Quantitative Marketing | Syracuse University (_Expected 2024_)
 - M.A., Economics | Syracuse University (_2023_)						       		
 - M.Sc., Quantitative Marketing	| Seoul National University (_2017_)	 			        		
 - B.S., Finance & Accounting | Yonsei University (_2013_)
