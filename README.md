@@ -11,10 +11,10 @@ Designed a comprehensive monitoring plan for a gradient boosting model, includin
 mance tracking, sensitivity analysis, and conceptual soundness checks. (Scikit-Learn, Scipy, Statsmodels)
 
 ## Education
-- Ph.D., Quantitative Marketing, Syracuse University (_May 2022_)
-- M.A., Economics, Syracuse University (2023)								       		
-- M.Sc., Quantitative Marketing	| Seoul National University (2017)	 			        		
-- B.S., Finance & Accounting | Yonsei University (2013)
+- **Ph.D., Quantitative Marketing | Syracuse University (_May 2022_)**
+- **M.A., Economics | Syracuse University (2023)**								       		
+- **M.Sc., Quantitative Marketing	| Seoul National University (2017)**	 			        		
+- **B.S., Finance & Accounting | Yonsei University (2013)**
 
 ## Skills
 - **Languages & Databases:** Python, R, SAS; SQL
@@ -27,7 +27,7 @@ Multivariate Regression, Random Forest, Gradient Boosting, Support Vector Machin
 - **IDE:** Google Colab, Jupyter Notebook
 
 ## Work Experience
-**Doctoral Researcher / Instructor @ Syracuse University (_Aug 2017 - Present_)**
+**Doctoral Researcher / Instructor @ Syracuse University (Syracuse, NY) (_Aug 2017 - Present_)**
 - Utilized a zero-inflated Poisson model to suggest a policy design to enhance the profitability of the referral program
 by analyzing shifts in customers’ opportunistic behavior. (R)
 - Led a SAS programming workshop to train graduate students to analyze Nielsen Consumer Panel Data and
@@ -35,7 +35,7 @@ create customer insights. (SAS)
 - Guided student teams through the successful completion of marketing strategy projects by assisting in defining
 marketing problems, conducting marketing environment analyses, and devising marketing strategies.
 
-**Data Analyst / Digital Marketing & Business Development Lead @ Kakao Entertainment (_May 2013 - Feb 2015_)**
+**Data Analyst / Digital Marketing & Business Development Lead @ Kakao Entertainment (Seoul, Korea) (_May 2013 - Feb 2015_)**
 - Improved the ROI of the marketing campaigns  by analyzing their effects from traffic, product, and revenue
 perspectives and providing data-driven decision support for marketing, product, and sales leaders
 - Acquired new users and bolstered the revenue YoY by designing and implementing digital marketing
@@ -45,9 +45,8 @@ of the MarTech product based on purchase history as a project manager.
 - Increased the MAU of the e-books & podcasts categories by finding, selecting, and marketing 200+ products
 and developing merchandising initiatives with vendors.
 
-**Research Assistant @ Korea Productivity Center (_Aug 2012 - Dec 2012_)**
-Korea Productivity Center - consulting project for a telecommunications company Seoul, Korea
-• Collected quantitative and qualitative customer data from 1 survey, 2 focus group interviews, 30 mystery shopping
-exercises, and 15 interviews with employees, collaborating with marketing research agencies.
-• Generated actionable customer insights from collected data, assisting consultants to devise strategic initiatives
+**Research Assistant @ Korea Productivity Center (Seoul, Korea) (_Aug 2012 - Dec 2012_)**
+- Collected quantitative and qualitative customer data from surveys, focus group interviews, mystery shopping
+exercises, and interviews with employees, collaborating with marketing research agencies.
+- Generated actionable customer insights from collected data, assisting consultants in devising strategic initiatives
 aimed at improving customer satisfaction and gaining a competitive advantage over industry competitors
