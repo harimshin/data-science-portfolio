@@ -1,6 +1,6 @@
 # Harim Shin
 
-### Projects
+## Projects
 - **[Machine learning model for binary classification](https://github.com/harimshin/data-science-portfolio/blob/b3018ee7cfca60c0d11572d2bb487f62604b1214/machine_learning_binary_classification_with_SMOTE_prediction_model_for_the_severity_of_car_accidents.ipynb) (dataset: [US car accidents](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents))**<br>
   Developed a robust machine learning model for a large dataset of 2.8 million records, focusing on binary classifica-
 tion. Employed feature engineering and hyperparameter tuning to select the optimal model. Implemented SMOTE
