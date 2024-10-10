@@ -9,3 +9,45 @@ to effectively address class imbalance in the target variable. (PySpark)
 (dataset: [Pima Indians diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database))**<br>
 Designed a comprehensive monitoring plan for a gradient boosting model, including data drift detection, perfor-
 mance tracking, sensitivity analysis, and conceptual soundness checks. (Scikit-Learn, Scipy, Statsmodels)
+
+## Education
+- Ph.D., Quantitative Marketing, Syracuse University (_May 2022_)
+- M.A., Economics, Syracuse University (2023)								       		
+- M.Sc., Quantitative Marketing	| Seoul National University (2017)	 			        		
+- B.S., Finance & Accounting | Yonsei University (2013)
+
+## Skills
+- **Languages & Databases:** Python, R, SAS; SQL
+- **Analytical Modeling:** A/B Test, Causal Inference, Time Series Analysis
+- **Marketing Modeling:** Marketing Mix Modeling (MMM), Multi-Touch Attribution (MTA), Market Segmentation,
+Churn Prevention, Spender Detection, Pricing Bundling, Customer Lifetime Value (CLV), Lifetime Value (LTV)
+- **Machine Learning:** Scikit-learn, PySpark, TensorFlow, PyTorch, Keras, Numpy, Pandas; Algorithm: Logistic &
+Multivariate Regression, Random Forest, Gradient Boosting, Support Vector Machine (SVM), Neural Network
+- **Data Visualization:** Tableau, Matplotlib, Seaborn, Plotly, Ggplot2, Shiny
+- **IDE:** Google Colab, Jupyter Notebook
+
+## Work Experience
+**Doctoral Researcher / Instructor @ Syracuse University (_Aug 2017 - Present_)**
+- Utilized a zero-inflated Poisson model to suggest a policy design to enhance the profitability of the referral program
+by analyzing shifts in customers’ opportunistic behavior. (R)
+- Led a SAS programming workshop to train graduate students to analyze Nielsen Consumer Panel Data and
+create customer insights. (SAS)
+- Guided student teams through the successful completion of marketing strategy projects by assisting in defining
+marketing problems, conducting marketing environment analyses, and devising marketing strategies.
+
+**Data Analyst / Digital Marketing & Business Development Lead @ Kakao Entertainment (_May 2013 - Feb 2015_)**
+- Improved the ROI of the marketing campaigns  by analyzing their effects from traffic, product, and revenue
+perspectives and providing data-driven decision support for marketing, product, and sales leaders
+- Acquired new users and bolstered the revenue YoY by designing and implementing digital marketing
+campaigns such as social media advertisements, banner advertisements, and push notifications.
+- Enhanced the conversion rate of push notification marketing by developing a customer segmentation system
+of the MarTech product based on purchase history as a project manager.
+- Increased the MAU of the e-books & podcasts categories by finding, selecting, and marketing 200+ products
+and developing merchandising initiatives with vendors.
+
+**Research Assistant @ Korea Productivity Center (_Aug 2012 - Dec 2012_)**
+Korea Productivity Center - consulting project for a telecommunications company Seoul, Korea
+• Collected quantitative and qualitative customer data from 1 survey, 2 focus group interviews, 30 mystery shopping
+exercises, and 15 interviews with employees, collaborating with marketing research agencies.
+• Generated actionable customer insights from collected data, assisting consultants to devise strategic initiatives
+aimed at improving customer satisfaction and gaining a competitive advantage over industry competitors
