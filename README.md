@@ -1,3 +1,5 @@
-# data-science-portfolio
+# Data Scientist
 
-I solely created the projects in this repository. Please cite the address of the project when you want to use its code. Thank you!
+### Projects
+Project 1
+Project 2
