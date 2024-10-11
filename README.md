@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## About Me
-I am a data scientist focusing on marketing modeling with a passion for enhancing customer experiences and optimizing firms' marketing strategies through quantitative analytics and automation.
+I am a data scientist focusing on marketing modeling with a passion for enhancing customer experiences and optimizing firms' marketing strategies through quantitative analytics and automation. [Resume](https://drive.google.com/file/d/1hLrjeRsjJ5T57LM59ApfQUr3BeBMIlhm/view?usp=drive_link) is available.
 
 ## Projects
 - **[Machine learning model for binary classification](https://github.com/harimshin/data-science-portfolio/blob/main/machine_learning_binary_classification_with_SMOTE_prediction_model_for_the_severity_of_car_accidents.ipynb) (dataset: [US car accidents🚗](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents))**<br>
