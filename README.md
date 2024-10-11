@@ -1,4 +1,4 @@
-# Harim Shin
+# Data Scientist
 
 ## Projects
 - **[Machine learning model for binary classification](https://github.com/harimshin/data-science-portfolio/blob/b3018ee7cfca60c0d11572d2bb487f62604b1214/machine_learning_binary_classification_with_SMOTE_prediction_model_for_the_severity_of_car_accidents.ipynb) (dataset: [US car accidents](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents))**<br>
