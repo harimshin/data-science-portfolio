@@ -27,7 +27,7 @@ Churn Prevention, Spender Detection, Pricing Bundling, Customer Lifetime Value (
 - **Machine Learning:** Scikit-learn, PySpark, TensorFlow, PyTorch, Keras, Numpy, Pandas; Algorithm: Logistic &
 Multivariate Regression, Random Forest, Gradient Boosting, Support Vector Machine (SVM), Neural Network
 - **Data Visualization:** Tableau, Matplotlib, Seaborn, Plotly, Ggplot2, Shiny
-- **IDE:** Google Colab, Jupyter Notebook
+- **IDE & Documentation:** Google Colab, Jupyter Notebook, R Studio; LaTeX, Git
 
 ## Work Experience
 **Doctoral Researcher / Instructor @ Syracuse University (Syracuse, NY) (_Aug 2017 - Present_)**
