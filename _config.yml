@@ -1,9 +1,8 @@
 title: Harim Shin
-description: I am a data scientist focusing on marketing modeling, passionate about enhancing customer experiences and optimizing firms' marketing strategies through quantitative analytics and automation.
-author:
-  name: Harim Shin
-  email: vero.harim.shin@gmail.com
-  linkedin: https://www.linkedin.com/in/harim-shin/
+description: I am a data scientist focusing on marketing modeling with a passion for enhancing customer experiences and optimizing firms' marketing strategies through quantitative analytics and automation.
+name: Harim Shin
+email: vero.harim.shin@gmail.com
+linkedin: https://www.linkedin.com/in/harim-shin/
 logo: /assets/img/headshot_circle.png
 show_downloads: true
 theme: jekyll-theme-minimal
