@@ -45,7 +45,7 @@ perspectives and providing data-driven decision support for marketing, product, 
 campaigns such as social media advertisements, banner advertisements, and push notifications.
 - Enhanced the conversion rate of push notification marketing by developing a customer segmentation system
 of the MarTech product based on purchase history as a project manager.
-- Increased the MAU of the e-books & podcasts categories by finding, selecting, and marketing 200+ products
+- Increased the MAU of the e-books & podcasts categories by finding, selecting, and marketing products
 and developing merchandising initiatives with vendors.
 
 **Research Assistant @ Korea Productivity Center (Seoul, Korea) (_Aug 2012 - Dec 2012_)**
