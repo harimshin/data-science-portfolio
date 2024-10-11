@@ -1,9 +1,9 @@
 # Data Scientist
 
-## About Me
+## About Me 🌟
 I am a data scientist focusing on marketing modeling with a passion for enhancing customer experiences and optimizing firms' marketing strategies through quantitative analytics and automation.
 
-## Projects
+## Projects 🛠️
 - **[Machine learning model for binary classification](https://github.com/harimshin/data-science-portfolio/blob/main/machine_learning_binary_classification_with_SMOTE_prediction_model_for_the_severity_of_car_accidents.ipynb) (dataset: [US car accidents🚗](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents))**<br>
   Developed a robust machine learning model for a large dataset of 2.8 million records, focusing on binary classification. Employed feature engineering and hyperparameter tuning to select the optimal model. Implemented SMOTE
 to effectively address class imbalance in the target variable. (PySpark)
@@ -11,13 +11,13 @@ to effectively address class imbalance in the target variable. (PySpark)
 (dataset: [Pima Indians diabetes💉](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database))**<br>
 Designed a comprehensive monitoring plan for a gradient boosting model, including data drift detection, performance tracking, sensitivity analysis, and conceptual soundness checks. (Scikit-Learn, Scipy, Statsmodels)
 
-## Education
+## Education ✏️
 - **Ph.D., Quantitative Marketing, Syracuse University (_Expected 2024_)**
 - **M.A., Economics, Syracuse University (_2023_)**						       		
 - **M.Sc., Quantitative Marketing, Seoul National University (_2017_)**	 			        		
 - **B.S., Finance & Accounting, Yonsei University (_2013_)**
 
-## Skills
+## Skills 💡
 - **Languages & Databases:** Python, R, SAS; SQL
 - **Analytical Modeling:** A/B Test, Causal Inference, Time Series Analysis
 - **Marketing Modeling:** Marketing Mix Modeling (MMM), Multi-Touch Attribution (MTA), Market Segmentation,
@@ -27,7 +27,7 @@ Multivariate Regression, Random Forest, Gradient Boosting, Support Vector Machin
 - **Data Visualization:** Tableau, Matplotlib, Seaborn, Plotly, Ggplot2, Shiny
 - **IDE & Documentation:** Google Colab, Jupyter Notebook, R Studio; LaTeX, Git
 
-## Work Experience
+## Experience 👩‍💼
 **Doctoral Researcher / Instructor @ Syracuse University (Syracuse, NY) (_Aug 2017 - Present_)**
 - Utilized a zero-inflated Poisson model to suggest a policy design to enhance the profitability of the referral program
 by analyzing shifts in customers’ opportunistic behavior. (R)
