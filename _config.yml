@@ -1,8 +1,8 @@
 title: Harim Shin
-description: Contact: [vero.harim.shin@gmail.com](mailto:vero.harim.shin@gmail.com) | [linkedin.com/in/harim-shin/](https://www.linkedin.com/in/harim-shin/)
-name: Harim Shin
-email: vero.harim.shin@gmail.com
-linkedin: https://www.linkedin.com/in/harim-shin/
+author:
+  name: Harim Shin
+  email: vero.harim.shin@gmail.com
+  linkedin: https://www.linkedin.com/in/harim-shin/
 logo: /assets/img/headshot_circle.png
 show_downloads: true
 theme: jekyll-theme-minimal
