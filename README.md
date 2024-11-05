@@ -13,7 +13,7 @@ to effectively address class imbalance in the target variable. (PySpark)
 Designed a comprehensive monitoring plan for a gradient boosting model, including data drift detection, performance tracking, sensitivity analysis, and conceptual soundness checks. (Scikit-Learn, Scipy, Statsmodels)
 ![diabetes](/assets/img/diabetes.jpg)
 
-- **[Metrics Development for Pokémon](https://github.com/harimshin/data-science-portfolio/blob/f95fb8f19a8de65224b41bbf7ee9b3913ba73e3c/Metrics_Development_for_Pokemon.ipynb))
+- **[Metrics Development for Pokémon](https://github.com/harimshin/data-science-portfolio/blob/f95fb8f19a8de65224b41bbf7ee9b3913ba73e3c/Metrics_Development_for_Pokemon.ipynb)
 (dataset: [Pokémon Stats](https://www.kaggle.com/datasets/abcsds/pokemon))**<br>
 Developed new metrics to overcome the limit of "Total", the evaluation metric included in the current dataset.
 ![pokemon](/assets/img/kanto_pokemon.png)
