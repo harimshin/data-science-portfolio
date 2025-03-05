@@ -35,7 +35,7 @@ Multivariate Regression, Random Forest, Gradient Boosting, Support Vector Machin
 - **IDE & Documentation:** Google Colab, Jupyter Notebook, R Studio; LaTeX, Git
 
 ## Experience
-**Doctoral Researcher / Instructor @ Syracuse University (Syracuse, NY) (_Aug 2017 - Present_)**
+**Doctoral Researcher / Instructor @ Syracuse University (Syracuse, NY) (_Aug 2017 - Dec 2024_)**
 - Utilized a zero-inflated Poisson model to suggest a policy design to enhance the profitability of the referral program
 by analyzing shifts in customers’ opportunistic behavior. (R)
 - Led a SAS programming workshop to train graduate students to analyze Nielsen Consumer Panel Data and
