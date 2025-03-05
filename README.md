@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## About Me
-I'm a data scientist with a Ph.D. in Quantitative Marketing, experienced in using causal inference and machine learning to optimize marketing and product strategies. With expertise in Python, SQL, and data visualization, I have a track record of driving engagement and conversion through data insights. I'm passionate about translating complex data into actionable strategies to fuel growth and efficiency. [Resume](https://drive.google.com/file/d/1hLrjeRsjJ5T57LM59ApfQUr3BeBMIlhm/view?usp=drive_link) is available.
+I'm a data scientist specializing in quantitative marketing, with expertise in causal inference and machine learning to optimize marketing and product strategies. Skilled in Python, SQL, and data visualization, I have a strong track record of using data-driven insights to drive engagement and conversion. I’m passionate about translating complex data into actionable strategies that enhance growth and efficiency. [Resume](https://drive.google.com/file/d/1hLrjeRsjJ5T57LM59ApfQUr3BeBMIlhm/view?usp=drive_link) is available.
 
 ## Projects
 - **[Machine learning model for binary classification](https://github.com/harimshin/data-science-portfolio/blob/main/machine_learning_binary_classification_with_SMOTE_prediction_model_for_the_severity_of_car_accidents.ipynb) (dataset: [US car accidents](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents))**<br>
