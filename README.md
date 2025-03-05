@@ -19,7 +19,7 @@ Developed new metrics to overcome the limit of "Total", the evaluation metric in
 ![pokemon](/assets/img/kanto_pokemon.png)
 
 ## Education
-- **Ph.D., Quantitative Marketing, Syracuse University (_Expected 2024_)**
+- **Ph.D.(ABD), Quantitative Marketing, Syracuse University (_2024_)**
 - **M.A., Economics, Syracuse University (_2023_)**						       		
 - **M.Sc., Quantitative Marketing, Seoul National University (_2017_)**	 			        		
 - **B.S., Finance & Accounting, Yonsei University (_2013_)**
