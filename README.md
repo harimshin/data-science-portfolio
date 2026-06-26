@@ -6,16 +6,17 @@ I'm a data scientist specializing in quantitative marketing, with expertise in c
 ## Projects
 - **[Machine learning model for binary classification](https://github.com/harimshin/data-science-portfolio/blob/main/machine_learning_binary_classification_with_SMOTE_prediction_model_for_the_severity_of_car_accidents.ipynb) (dataset: [US car accidents](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents))**<br>
   Developed a robust machine learning model for a large dataset of 2.8 million records, focusing on binary classification. Employed feature engineering and hyperparameter tuning to select the optimal model. Implemented SMOTE
-to effectively address class imbalance in the target variable. (PySpark)
+to effectively address class imbalance in the target variable. (PySpark)<br>
 ![car accidents](/assets/img/accidents.jpg)
 
-- **[Causal inference Methods for program evaluation](https://github.com/harimshin/data-science-portfolio/blob/main/Causal_Inference_for_Job_Coprs_Program_Evaluation.ipynb)
+- **[Causal inference Methods for program evaluation](https://github.com/harimshin/data-science-portfolio/blob/main/Causal_Inference_for_Job_Coprs_Program_Evaluation.ipynb)<br>
 Applied five causal inference estimators — DiD, IPW, Nearest Neighbor Matching,
 AIPW, and Causal Forest — to evaluate the earnings effect of Job Corps workforce
 training using observational data. Implemented doubly robust estimation with
 cross-fitted outcome models, Abadie-Imbens standard errors for matching with
 replacement, and CATE-based policy allocation with cost sensitivity analysis
-across multiple treatment cost levels. (scikit-learn, EconML)
+across multiple treatment cost levels. (scikit-learn, EconML)<br>
+![job_corps](/assets/img/job_corps.jpg)
 
 - **[Monitoring plan design for gradient boosting model](https://github.com/harimshin/data-science-portfolio/blob/main/mlops_model_risk_management_monitoring_plan_gradient_boosting_model_for_pima_diabetes.ipynb)
 (dataset: [Pima Indians diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database))**<br>
