@@ -9,7 +9,7 @@ I'm a data scientist specializing in quantitative marketing, with expertise in c
 to effectively address class imbalance in the target variable. (PySpark)<br>
 ![car accidents](/assets/img/accidents.jpg)
 
-- **[Causal inference Methods for program evaluation](https://github.com/harimshin/data-science-portfolio/blob/main/Causal_Inference_for_Job_Coprs_Program_Evaluation.ipynb)**<br>
+- **[Causal inference Methods for program evaluation]**(https://github.com/harimshin/data-science-portfolio/blob/main/Causal_Inference_for_Job_Coprs_Program_Evaluation.ipynb)<br>
 Applied five causal inference estimators — DiD, IPW, Nearest Neighbor Matching,
 AIPW, and Causal Forest — to evaluate the earnings effect of Job Corps workforce
 training using observational data. Implemented doubly robust estimation with
