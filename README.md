@@ -9,13 +9,14 @@ I'm a data scientist specializing in quantitative marketing, with expertise in c
 to effectively address class imbalance in the target variable. (PySpark)
 ![car accidents](/assets/img/accidents.jpg)
 
-- **[Causal inference Methods for program evaluation].(https://github.com/harimshin/data-science-portfolio/blob/main/Causal_Inference_for_Job_Coprs_Program_Evaluation.ipynb)
+- **[Causal inference Methods for program evaluation](https://github.com/harimshin/data-science-portfolio/blob/main/Causal_Inference_for_Job_Coprs_Program_Evaluation.ipynb)
 Applied five causal inference estimators — DiD, IPW, Nearest Neighbor Matching,
 AIPW, and Causal Forest — to evaluate the earnings effect of Job Corps workforce
 training using observational data. Implemented doubly robust estimation with
 cross-fitted outcome models, Abadie-Imbens standard errors for matching with
 replacement, and CATE-based policy allocation with cost sensitivity analysis
 across multiple treatment cost levels. (scikit-learn, EconML)
+
 - **[Monitoring plan design for gradient boosting model](https://github.com/harimshin/data-science-portfolio/blob/main/mlops_model_risk_management_monitoring_plan_gradient_boosting_model_for_pima_diabetes.ipynb)
 (dataset: [Pima Indians diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database))**<br>
 Designed a comprehensive monitoring plan for a gradient boosting model, including data drift detection, performance tracking, sensitivity analysis, and conceptual soundness checks. (Scikit-Learn, Scipy, Statsmodels)
