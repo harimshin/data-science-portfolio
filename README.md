@@ -4,7 +4,7 @@
 I'm a data scientist specializing in quantitative marketing, with expertise in causal inference and machine learning to optimize marketing and product strategies. Skilled in Python, SQL, and data visualization, I have a strong track record of using data-driven insights to drive engagement and conversion. I’m passionate about translating complex data into actionable strategies that enhance growth and efficiency. [Resume](https://drive.google.com/file/d/1hLrjeRsjJ5T57LM59ApfQUr3BeBMIlhm/view?usp=drive_link) is available.
 
 ## Projects
-- **[Machine learning model for binary classification](https://github.com/harimshin/data-science-portfolio/blob/main/machine_learning_binary_classification_with_SMOTE_prediction_model_for_the_severity_of_car_accidents.ipynb)**<br>
+- **[Machine learning model for binary classification](https://github.com/harimshin/data-science-portfolio/blob/8106429cf0bd566eaa9dca86cf0c13571c59d5fb/ml_prediction_model_for_US_car_accidents.ipynb)**<br>
   Developed a robust machine learning model for a large dataset of 2.8 million records, focusing on binary classification. Employed feature engineering and hyperparameter tuning to select the optimal model. Implemented SMOTE
 to effectively address class imbalance in the target variable. (PySpark)<br>
 ![car accidents](/assets/img/accidents.jpg)
