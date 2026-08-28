@@ -4,12 +4,12 @@
 I'm a data scientist specializing in quantitative marketing, with expertise in causal inference and machine learning to optimize marketing and product strategies. Skilled in Python, SQL, and data visualization, I have a strong track record of using data-driven insights to drive engagement and conversion. I’m passionate about translating complex data into actionable strategies that enhance growth and efficiency. [Resume](https://drive.google.com/file/d/1hLrjeRsjJ5T57LM59ApfQUr3BeBMIlhm/view?usp=drive_link) is available.
 
 ## Projects
-- **[Machine learning model for binary classification](https://github.com/harimshin/data-science-portfolio/blob/8106429cf0bd566eaa9dca86cf0c13571c59d5fb/ml_prediction_model_for_US_car_accidents.ipynb)**<br>
+- **[Machine Learning Model for Binary Classification with US Car Accidents Data](https://github.com/harimshin/data-science-portfolio/blob/8106429cf0bd566eaa9dca86cf0c13571c59d5fb/ml_prediction_model_for_US_car_accidents.ipynb)**<br>
   Developed a robust machine learning model for a large dataset of 2.8 million records, focusing on binary classification. Employed feature engineering and hyperparameter tuning to select the optimal model. Implemented SMOTE
 to effectively address class imbalance in the target variable. (PySpark MLlib, XGBoost)<br>
 ![car accidents](/assets/img/accidents.jpg)
 
-- **[Causal inference Methods for program evaluation](https://github.com/harimshin/data-science-portfolio/blob/890db0bfc9ed4a7e60130b9f90f5d5be7bf15aaf/Causal_Inference_for_Job_Coprs_Program_Evaluation.ipynb)**<br>
+- **[Causal Inference Methods for Program Evaluation with Job Corps Data](https://github.com/harimshin/data-science-portfolio/blob/890db0bfc9ed4a7e60130b9f90f5d5be7bf15aaf/Causal_Inference_for_Job_Coprs_Program_Evaluation.ipynb)**<br>
 Applied five causal inference estimators — DiD, IPW, Nearest Neighbor Matching,
 AIPW, and Causal Forest — to evaluate the earnings effect of Job Corps workforce
 training using observational data. Implemented doubly robust estimation with
@@ -18,12 +18,11 @@ replacement, and CATE-based policy allocation with cost sensitivity analysis
 across multiple treatment cost levels. (scikit-learn, EconML)<br>
 ![job_corps](/assets/img/job_corps.jpg)
 
-<!--
-- **[Monitoring plan design for gradient boosting model](https://github.com/harimshin/data-science-portfolio/blob/main/mlops_model_risk_management_monitoring_plan_gradient_boosting_model_for_pima_diabetes.ipynb)
-(dataset: [Pima Indians diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database))**<br>
-Designed a comprehensive monitoring plan for a gradient boosting model, including data drift detection, performance tracking, sensitivity analysis, and conceptual soundness checks. (Scikit-Learn, Scipy, Statsmodels)
+- **[Monitoring Plan Design with Pima Diabetes Data](https://github.com/harimshin/data-science-portfolio/blob/3658abe88cccc84e8a0e9c2d376981db3623375e/Monitoring_Plan_Design_with_Pima_Diabetes_Data.ipynb)**<br>
+Designed a three-stage ML monitoring framework (data, prediction, and performance drift) for a diabetes-risk classifier, using KS and PSI tests to detect distributional shift before labels arrive, and evaluation metrics tracking to confirm real performance impact once they do. Built a severity-tiered alerting system connecting each drift signal to a concrete action. (Scikit-Learn, Scipy)
 ![diabetes](/assets/img/diabetes.jpg)
 
+<!--
 - **[Metrics Development for Pokémon](https://github.com/harimshin/data-science-portfolio/blob/f95fb8f19a8de65224b41bbf7ee9b3913ba73e3c/Metrics_Development_for_Pokemon.ipynb)
 (dataset: [Pokémon Stats](https://www.kaggle.com/datasets/abcsds/pokemon))**<br>
 Developed new metrics to overcome the limit of "Total", the evaluation metric included in the current dataset.
